@@ -1,0 +1,293 @@
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "C:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "C:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "254294118400";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "C:";
+	Size = "499250479104";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "";
+	VolumeSerialNumber = "AA3C3901";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "D:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "D:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "502890627072";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "D:";
+	Size = "1000190504960";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "Softwares";
+	VolumeSerialNumber = "36F75DF7";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "E:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "E:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "108217708544";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "E:";
+	Size = "500095250432";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "Games";
+	VolumeSerialNumber = "F42492AB";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "F:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "F:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "51348156416";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "F:";
+	Size = "500095250432";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "ACG_Xtreme";
+	VolumeSerialNumber = "CC48EA93";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "G:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "G:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "293882662912";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "G:";
+	Size = "499292024832";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "软件";
+	VolumeSerialNumber = "000EAF9C";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "H:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "H:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "316766134272";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "H:";
+	Size = "500364734464";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "文档";
+	VolumeSerialNumber = "0008C2E7";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "I:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "I:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "182932561920";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "I:";
+	Size = "500364734464";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "数据";
+	VolumeSerialNumber = "000975E2";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "J:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "J:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "1977228771328";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "J:";
+	Size = "3000591446016";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "ACG_Garge_R";
+	VolumeSerialNumber = "6A56F169";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "L:";
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "CD-ROM Disc";
+	DeviceID = "L:";
+	DriveType = 5;
+	MediaType = 11;
+	Name = "L:";
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "O:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Local Fixed Disk";
+	DeviceID = "O:";
+	DriveType = 3;
+	FileSystem = "NTFS";
+	FreeSpace = "69984350208";
+	MaximumComponentLength = 255;
+	MediaType = 12;
+	Name = "O:";
+	Size = "500138315776";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "游戏";
+	VolumeSerialNumber = "00034118";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "X:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Network Connection";
+	DeviceID = "X:";
+	DriveType = 4;
+	FileSystem = "NTFS";
+	FreeSpace = "877307109376";
+	MaximumComponentLength = 255;
+	MediaType = 0;
+	Name = "X:";
+	ProviderName = "\\\\192.168.1.123\\ACG_Classic";
+	Size = "2999975931904";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "ACG_Classic";
+	VolumeSerialNumber = "04960F5E";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "Y:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Network Connection";
+	DeviceID = "Y:";
+	DriveType = 4;
+	FileSystem = "NTFS";
+	FreeSpace = "405773959168";
+	MaximumComponentLength = 255;
+	MediaType = 0;
+	Name = "Y:";
+	ProviderName = "\\\\192.168.1.123\\ACG_Ex";
+	Size = "1000792387584";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "ACG_Ex";
+	VolumeSerialNumber = "84A812B5";
+};
+
+instance of Win32_LogicalDisk
+{
+	Access = 0;
+	Caption = "Z:";
+	Compressed = FALSE;
+	CreationClassName = "Win32_LogicalDisk";
+	Description = "Network Connection";
+	DeviceID = "Z:";
+	DriveType = 4;
+	FileSystem = "NTFS";
+	FreeSpace = "2638166769664";
+	MaximumComponentLength = 255;
+	MediaType = 0;
+	Name = "Z:";
+	ProviderName = "\\\\192.168.1.123\\ACG_Garge_X";
+	Size = "4000768323584";
+	SupportsDiskQuotas = FALSE;
+	SupportsFileBasedCompression = TRUE;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "DESKTOP-C9EJDHE";
+	VolumeName = "ACG_Garge_X";
+	VolumeSerialNumber = "56BC8348";
+};
